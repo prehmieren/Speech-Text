@@ -1,1 +1,1 @@
-Speech to text in Thai language
+This is a voice recognition web app by using SpeechRecognitionEvent on JavaScript
