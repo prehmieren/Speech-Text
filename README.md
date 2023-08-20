@@ -1,1 +1,1 @@
-# Speech to Text
+Speech to text in Thai language
